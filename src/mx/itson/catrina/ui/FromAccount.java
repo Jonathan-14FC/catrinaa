@@ -18,7 +18,7 @@ import mx.itson.catrina.entities.Transactions;
 
 /**
  *
- * @author Luis Guerrero, Marco Lopez, Adlemi Duarte, Jonathan Felix..
+ * @author Luis Guerrero, Marco Lopez, Adlemi Duarte, Jonathan Felix.
  */
 public class FromAccount extends javax.swing.JFrame {
 
